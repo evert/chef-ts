@@ -1,0 +1,17 @@
+{
+  "name": "chef-ts",
+  "version": "0.0.1",
+  "description": "An interpreter for the Chef programming language",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chef"
+  ],
+  "author": "Evert Pot (https://evertpot.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  }
+}
